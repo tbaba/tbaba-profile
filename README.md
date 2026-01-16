@@ -10,6 +10,7 @@
   - モダンなUI/UX
 
 ## URL
+- **GitHub**: https://github.com/tbaba/tbaba-profile
 - **開発環境**: https://3000-iu5jsxgqbdssuam49vhad-0e616f0a.sandbox.novita.ai
 - **本番環境**: デプロイ後に追加予定
 
@@ -99,12 +100,12 @@ webapp/
 
 ## デプロイ状況
 - **プラットフォーム**: Cloudflare Pages
-- **ステータス**: 🟡 開発環境で動作中
-- **最終更新**: 2026-01-14
+- **GitHub**: https://github.com/tbaba/tbaba-profile
+- **ステータス**: ✅ GitHubにプッシュ完了
+- **最終更新**: 2026-01-16
 
 ## 推奨される次のステップ
 1. **Cloudflare Pagesへのデプロイ**: `setup_cloudflare_api_key`を実行後、`npm run deploy:prod`でデプロイ
-2. **GitHubへのプッシュ**: `setup_github_environment`を実行後、リポジトリを作成してプッシュ
-3. **コンテンツの充実**: About、Portfolioセクションの詳細情報を追加
-4. **カスタムドメインの設定**: Cloudflare Pagesで独自ドメインを設定
-5. **OGP画像の追加**: SNSシェア用のメタタグとOGP画像を追加
+2. **コンテンツの充実**: About、Portfolioセクションの詳細情報を追加
+3. **カスタムドメインの設定**: Cloudflare Pagesで独自ドメインを設定
+4. **OGP画像の追加**: SNSシェア用のメタタグとOGP画像を追加
